@@ -1,2 +1,2 @@
 # voicy
-Taking chat
+Talking chat

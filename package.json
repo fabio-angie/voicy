@@ -1,0 +1,28 @@
+{
+  "name": "voicy",
+  "version": "0.0.1",
+  "description": "Talking chats for practicing purpose",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabio-angie/voicy.git"
+  },
+  "keywords": [
+    "AI",
+    "Text-To-Speech",
+    "Speech-To-Text",
+    "Natual-Language-Processing"
+  ],
+  "author": "Fabio Polimeni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabio-angie/voicy/issues"
+  },
+  "homepage": "https://github.com/fabio-angie/voicy#readme",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
